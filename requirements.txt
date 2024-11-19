@@ -1,0 +1,2 @@
+rich
+huggingface_hub
